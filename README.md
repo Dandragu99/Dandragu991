@@ -1,6 +1,9 @@
 # Dandragu991
-Portada de GITHUB
-![Imagen de Portada](url_de_la_imagen) ## Descripción Breve descripción del proyecto, objetivos y funcionalidades principales.
+Bienvenido a mi GitHub
+
+gatito/gatito.jpg
+
+
 ## Características
 - Característica 1
 - Característica 2
