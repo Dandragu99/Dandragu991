@@ -1,7 +1,7 @@
 # Dandragu991
 Bienvenido a mi GitHub
 
-gatito.jpg
+![Imagen de Portadad](gatito.jpg)
 ## Características
 - Característica 1
 - Característica 2
