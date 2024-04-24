@@ -1,8 +1,7 @@
 # Dandragu991
 Bienvenido a mi GitHub
 
-gatito/gatito.jpg
-
+gatito.jpg
 ## Características
 - Característica 1
 - Característica 2
