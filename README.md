@@ -3,7 +3,6 @@ Bienvenido a mi GitHub
 
 gatito/gatito.jpg
 
-
 ## Características
 - Característica 1
 - Característica 2
